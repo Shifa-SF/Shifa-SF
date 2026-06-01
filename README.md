@@ -19,7 +19,8 @@
 Most of my learning happens through curiosity:
 "If I don't understand something, I build it until I do."
 ## 📊 GitHub Stats
-(Add GitHub stats card here)
+## Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Shifa-SF?theme=dark&font=Barlow%20Condensed&ext=contest)
 ## 🔥 Contribution Streak
 (Add streak card here)
 ## 🤝 Let's Connect
