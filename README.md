@@ -2,6 +2,7 @@
 🎓 Artificial Intelligence & Data Science Student from India
 💻 Exploring Web Development, AI, and Problem Solving
 🚀 Building projects to learn, experiment, and grow as a developer <br>
+##
 ## 📚 What I'm Exploring
 ### Languages
 <p>
