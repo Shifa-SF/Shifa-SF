@@ -2,8 +2,8 @@
 🎓 Artificial Intelligence & Data Science Student from India
 💻 Exploring Web Development, AI, and Problem Solving
 🚀 Building projects to learn, experiment, and grow as a developer <br>
-##
-## 📚 What I'm Exploring
+--
+## 📚 Tech Stack
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
@@ -16,23 +16,23 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 ### IDE & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode)  ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma)
-##
-## 📚 What I'm Exploring
+--
+## 🌱What I'm Exploring
 🤖 AI Applications<br>
 ⚛️ React & Modern Frontend<br>
 🌐 Full Stack Development<br>
 📖 Open Source Contribution<br>
-##
+--
 ## 💡 Fun Fact
 Most of my learning happens through curiosity:
 "If I don't understand something, I build it until I do."
-##
+--
 ## 📊 GitHub Stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shifa-SF&bg_color=000000&color=ffffff&line=b22e2e&point=bababa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-##
+--
 ## Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Shifa-SF?theme=dark&font=Barlow%20Condensed&ext=contest)
-##
+--
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -48,5 +48,5 @@ Most of my learning happens through curiosity:
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-##
+--
 ![ Shifa GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shifa-SF&show_icons=true&theme=dark)
