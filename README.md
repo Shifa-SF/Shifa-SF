@@ -4,18 +4,10 @@
 🚀 Building projects to learn, experiment, and grow as a developer
 ## 🛠️ Technologies I'm Working With
 ### Languages
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-- JavaScript  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-- SQL <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-- Java <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
-- Python <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-### Web Development
-- HTML <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
-- CSS  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
 
+### Web Development
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 ### IDE & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode)  ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma)
 ## 📚 What I'm Exploring
