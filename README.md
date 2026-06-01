@@ -3,7 +3,7 @@
 🎓 Artificial Intelligence & Data Science Student from India
 💻 Exploring Web Development, AI, and Problem Solving
 🚀 Building projects to learn, experiment, and grow as a developer <br>
-## 🛠️ Technologies I'm Working With<br>
+### Techologies I'm Working With
 ### Languages
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
 
