@@ -19,6 +19,7 @@
 Most of my learning happens through curiosity:
 "If I don't understand something, I build it until I do."
 ## 📊 GitHub Stats
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shifa-SF&bg_color=000000&color=ffffff&line=b22e2e&point=bababa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Shifa-SF?theme=dark&font=Barlow%20Condensed&ext=contest)
 ## 🔥 Contribution Streak
@@ -47,9 +48,6 @@ Most of my learning happens through curiosity:
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
-
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
