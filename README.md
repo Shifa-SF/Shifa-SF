@@ -2,7 +2,7 @@
 🎓 Artificial Intelligence & Data Science Student from India
 💻 Exploring Web Development, AI, and Problem Solving
 🚀 Building projects to learn, experiment, and grow as a developer <br>
---
+##
 ## 📚 Tech Stack
 ### Languages
 <p>
@@ -22,17 +22,17 @@
 ⚛️ React & Modern Frontend<br>
 🌐 Full Stack Development<br>
 📖 Open Source Contribution<br>
---
+##
 ## 💡 Fun Fact
 Most of my learning happens through curiosity:
 "If I don't understand something, I build it until I do."
 --
 ## 📊 GitHub Stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shifa-SF&bg_color=000000&color=ffffff&line=b22e2e&point=bababa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
---
+##
 ## Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Shifa-SF?theme=dark&font=Barlow%20Condensed&ext=contest)
---
+##
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -48,5 +48,5 @@ Most of my learning happens through curiosity:
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
---
+##
 ![ Shifa GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shifa-SF&show_icons=true&theme=dark)
