@@ -3,9 +3,14 @@
 🎓 Artificial Intelligence & Data Science Student from India
 💻 Exploring Web Development, AI, and Problem Solving
 🚀 Building projects to learn, experiment, and grow as a developer <br>
-### Techologies I'm Working With
+## 📚 What I'm Exploring
 ### Languages
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+</p>
 
 ### Web Development
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
