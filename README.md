@@ -1,5 +1,4 @@
 ## Hi there 👋 I'm Shifa Fathima
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 🎓 Artificial Intelligence & Data Science Student from India
 💻 Exploring Web Development, AI, and Problem Solving
 🚀 Building projects to learn, experiment, and grow as a developer <br>
