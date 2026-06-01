@@ -2,98 +2,37 @@
 🎓 Artificial Intelligence & Data Science Student from India
 💻 Exploring Web Development, AI, and Problem Solving
 🚀 Building projects to learn, experiment, and grow as a developer
-
-## 🌱 My Learning Journey
-
-Currently focusing on:
-
-- JavaScript
-- React
-- Node.js
-- Git & GitHub
-- Data Structures and Algorithms
-
-I believe in learning by building projects and documenting what I learn.
-
----
-
 ## 🛠️ Technologies I'm Working With
-
 ### Languages
-- JavaScript
-- Python
+- JavaScript  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+- SQL <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+ <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/> 
+- Java <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
+- Python <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 - SQL
-
 ### Web Development
-- HTML
-- CSS
-- React
-- Node.js
+- HTML <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
+- CSS  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
 
-### Tools
-- Git
+### IDE & Tools
+- Git   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
 - GitHub
-- VS Code
-- Firebase
-
----
-
-## 🚀 Featured Projects
-
-### 🎓 EduBridge
-A platform designed to improve learning accessibility and student engagement.
-
-### ✋ Hand Gesture Recognition
-AI-powered project that recognizes hand gestures using computer vision.
-
-### 📝 AutoMeetingSummarizer
-Automatically generates concise meeting summaries.
-
-### 📅 Event Registration System
-A simple and efficient event registration platform.
-
----
-
+- VS Code <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+- Google Colab
+- PyCharm  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+- Figma  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 ## 📚 What I'm Exploring
-
 - Artificial Intelligence
 - Full Stack Development
 - Open Source Contribution
 - Software Engineering Best Practices
-
----
-
-## 🎯 Goals
-
-- Build impactful real-world applications
-- Contribute to open-source projects
-- Strengthen problem-solving skills
-- Participate in hackathons
-- Become a skilled Software Engineer
-
----
-
 ## 💡 Fun Fact
-
 Most of my learning happens through curiosity:
 "If I don't understand something, I build it until I do."
-
----
-
 ## 📊 GitHub Stats
-
 (Add GitHub stats card here)
-
 ## 🔥 Contribution Streak
-
 (Add streak card here)
-
-## 📈 Most Used Languages
-
-(Add language stats card here)
-
----
-
 ## 🤝 Let's Connect
 
 - GitHub: github.com/Shifa-SF
@@ -109,11 +48,8 @@ Most of my learning happens through curiosity:
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yArWvkcjxWXuQ)
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
+=
 
 
 ### 💻 Workspace Spec
