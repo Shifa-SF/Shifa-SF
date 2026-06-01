@@ -1,8 +1,102 @@
-## Hi there 👋
+## Hi there 👋 I'm Shifa Fathima
+🎓 Artificial Intelligence & Data Science Student from India
+💻 Exploring Web Development, AI, and Problem Solving
+🚀 Building projects to learn, experiment, and grow as a developer
 
-## Hi there 👋 It's me Hareesh
+## 🌱 My Learning Journey
 
-Software Engineer @ Zoho Corporation
+Currently focusing on:
+
+- JavaScript
+- React
+- Node.js
+- Git & GitHub
+- Data Structures and Algorithms
+
+I believe in learning by building projects and documenting what I learn.
+
+---
+
+## 🛠️ Technologies I'm Working With
+
+### Languages
+- JavaScript
+- Python
+- SQL
+
+### Web Development
+- HTML
+- CSS
+- React
+- Node.js
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Firebase
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 EduBridge
+A platform designed to improve learning accessibility and student engagement.
+
+### ✋ Hand Gesture Recognition
+AI-powered project that recognizes hand gestures using computer vision.
+
+### 📝 AutoMeetingSummarizer
+Automatically generates concise meeting summaries.
+
+### 📅 Event Registration System
+A simple and efficient event registration platform.
+
+---
+
+## 📚 What I'm Exploring
+
+- Artificial Intelligence
+- Full Stack Development
+- Open Source Contribution
+- Software Engineering Best Practices
+
+---
+
+## 🎯 Goals
+
+- Build impactful real-world applications
+- Contribute to open-source projects
+- Strengthen problem-solving skills
+- Participate in hackathons
+- Become a skilled Software Engineer
+
+---
+
+## 💡 Fun Fact
+
+Most of my learning happens through curiosity:
+"If I don't understand something, I build it until I do."
+
+---
+
+## 📊 GitHub Stats
+
+(Add GitHub stats card here)
+
+## 🔥 Contribution Streak
+
+(Add streak card here)
+
+## 📈 Most Used Languages
+
+(Add language stats card here)
+
+---
+
+## 🤝 Let's Connect
+
+- GitHub: github.com/Shifa-SF
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
