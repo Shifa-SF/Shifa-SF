@@ -15,12 +15,15 @@
 - CSS  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
 
 ### IDE & Tools
-- Git   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
-- GitHub
-- VS Code <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-- Google Colab
-- PyCharm  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-- Figma  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode)
+
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma)
 ## 📚 What I'm Exploring
 - Artificial Intelligence
 - Full Stack Development
