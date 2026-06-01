@@ -4,12 +4,14 @@
 🚀 Building projects to learn, experiment, and grow as a developer
 ## 🛠️ Technologies I'm Working With
 ### Languages
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
 - JavaScript  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 - SQL <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
- <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/> 
 - Java <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
 - Python <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-- SQL
 ### Web Development
 - HTML <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
 - CSS  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
