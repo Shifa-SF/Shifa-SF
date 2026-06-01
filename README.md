@@ -40,7 +40,7 @@ Most of my learning happens through curiosity:
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/shifa-fathima-2632290362/">
+  <a href="https://www.linkedin.com/in/Shifa-Fathima-S/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
